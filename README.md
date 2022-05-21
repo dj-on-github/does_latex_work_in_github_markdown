@@ -1,0 +1,1 @@
+# does_latex_work_in_github_markdown
