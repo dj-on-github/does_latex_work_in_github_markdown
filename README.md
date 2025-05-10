@@ -16,3 +16,4 @@ $y = \sum_{x=0}^\infty x^2-x$
 
 $y = \sum_{x=0}^\infty x^2-x$
 
+Well time has moved on an it looks ok now.
